@@ -8,4 +8,4 @@ Telkom University
 - Nakhwa Azizah (nakhwaazizah@student.telkomuniversity.ac.id)
 
 #### Demo Video Dashboard Interakitf
-##### https://telkomuniversityofficial-my.sharepoint.com/:v:/g/personal/nadyakhairani_student_telkomuniversity_ac_id/Ec5Rq5DRXhNKtN63LGs76bkBb0YRS8B7s9NI7C09lZ2psQ?e=eagOxX
+https://telkomuniversityofficial-my.sharepoint.com/:v:/g/personal/nadyakhairani_student_telkomuniversity_ac_id/Ec5Rq5DRXhNKtN63LGs76bkBb0YRS8B7s9NI7C09lZ2psQ?e=eagOxX
