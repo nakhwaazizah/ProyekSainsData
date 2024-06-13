@@ -4,7 +4,7 @@ Telkom University
 
 ## Kelompok 21 
 - Nadya Khairani (nadyakhairani@student.telkomuniversity.ac.id)
-- Najma Zahira Layalia M. (najmazlm@student.telkomuniversity.ac.id)
+- Najma Zahira Layalia Marsyafathanya (najmazlm@student.telkomuniversity.ac.id)
 - Nakhwa Azizah (nakhwaazizah@student.telkomuniversity.ac.id)
 
 #### Demo Video Dashboard Interaktif:
